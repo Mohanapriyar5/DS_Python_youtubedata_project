@@ -19,18 +19,18 @@ REQUIRED LIBRARIES:
 5.pandas
 
 Components Required:
-        STREAMLIT
-        PYTHON
-        GOOGLE API CLIENT
-        MONGODB
-        MYSQL
 STREAMLIT: 
+
 	A user-friendly user interface (UI) was developed using the Streamlit library to allow users to interact with the application and perform data retrieval and analysis tasks.
 PYTHON:
+
 	Python is a well-known, capable programming language that is simple to pick up and comprehend. The main language used in this project to construct the entire application, including data processing, analysis, visualization, and retrieval, is Python.
 GOOGLE API CLIENT: 
+
 	Contacting various Google APIs is made easier using the Python googleapiclient package. Its main goal in this project is to communicate with YouTube's Data API v3, which enables the retrieval of crucial data including comments, video metadata, and channel details. Developers can quickly access and modify YouTube's vast data resources with code by using googleapiclient. 
  MONGODB: 
+ 
  	Developed on a scale-out architecture, MongoDB has gained popularity among developers of all stripes as a tool for creating scalable systems with dynamic data schemas. MongoDB, being a document database, facilitates the storing of both structured and unstructured data for developers. Documents are stored in a format similar to JSON.
-	MYSQL:
+MYSQL:
+
  	MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL). It is widely used for managing and organizing structured data, providing a reliable and efficient way to store, retrieve, and manage databases.
