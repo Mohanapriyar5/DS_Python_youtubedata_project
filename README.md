@@ -19,6 +19,7 @@ REQUIRED LIBRARIES:
 5.pandas
 
 Components Required:
+
 STREAMLIT: 
 
 	A user-friendly user interface (UI) was developed using the Streamlit library to allow users to interact with the application and perform data retrieval and analysis tasks.
